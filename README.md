@@ -23,14 +23,5 @@
 </a>
 </p>
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Deployment |
-| :--- | :--- | :--- |
-| **reactjs_projects** | Interactive React Mini-Projects | [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://biplavbarua.github.io/Reactjs_Mini-Project/) |
-| **TrackWeight** | iOS Weight Tracking App | [![CI Status](https://github.com/KrishKrosh/TrackWeight/actions/workflows/swift.yml/badge.svg)](https://github.com/KrishKrosh/TrackWeight) |
-| **Homebrew** | Formula & Cask Contributions | [![CI Status](https://github.com/Homebrew/brew/actions/workflows/tests.yml/badge.svg)](https://github.com/Homebrew/brew) |
 
 </div>
