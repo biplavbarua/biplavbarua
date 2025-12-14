@@ -1,6 +1,6 @@
 # Hi there, I'm Biplav! 👋
 
-I'm a passionate developer focused on building robust backends and interactive frontends.
+**Aspiring Data Scientist | Python & ML Enthusiast | Turning Data into Insights**
 
 ---
 
@@ -8,26 +8,12 @@ I'm a passionate developer focused on building robust backends and interactive f
 
 ![Biplav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biplavbarua&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biplavbarua&layout=compact&theme=radical)
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=biplavbarua&theme=radical)](https://git.io/streak-stats)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=biplavbarua&theme=radical&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages**: Python, Swift, JavaScript, Ruby
-- **Frontend**: React, SwiftUI, HTML/CSS
-- **Backend**: Node.js, Django
-- **Tools**: Git, Docker, Homebrew
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Deployment |
-| :--- | :--- | :--- |
-| **reactjs_projects** | Interactive React Mini-Projects | [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://biplavbarua.github.io/Reactjs_Mini-Project/) |
-| **TrackWeight** | iOS Weight Tracking App | [![CI Status](https://github.com/KrishKrosh/TrackWeight/actions/workflows/swift.yml/badge.svg)](https://github.com/KrishKrosh/TrackWeight) |
-| **Homebrew** | Formula & Cask Contributions | [![CI Status](https://github.com/Homebrew/brew/actions/workflows/tests.yml/badge.svg)](https://github.com/Homebrew/brew) |
-
----
-*Generated with ❤️ by Antigravity*
+- **Languages**: Python, SQL, JavaScript, Swift
+- **Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib
+- **Tools**: Git, Docker, Jupyter, Tableau
