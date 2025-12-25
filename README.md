@@ -9,8 +9,8 @@
 ### 📊 Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=biplavbarua&show_icons=true&theme=radical" alt="Biplav's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biplavbarua&layout=compact&theme=radical" alt="Top Langs" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=biplavbarua&show_icons=true&theme=radical" alt="Biplav's GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=biplavbarua&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
