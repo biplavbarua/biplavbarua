@@ -17,20 +17,16 @@
 
 </div>
 
-## 🔭 Selected Contributions
+## 🚀 Active Engineering Focus
 
-I focus on solving complex engineering problems in high-impact repositories.
+I am currently architecting features and fixes for high-impact open-source projects.
 
 ### 🦙 [Ollama](https://github.com/ollama/ollama)
-*   **System Sleep Prevention (macOS)**: Engineered a native Wake Lock implementation using `IOKit` and Cgo to prevent system sleep during long-running inference tasks. Integrated this directly into the server scheduler.
-*   **CLI Robustness**: Fixed critical file path parsing issues for drag-and-drop operations on macOS/Linux shells.
+*   **System Sleep Prevention (macOS)**: Engineering a native Wake Lock implementation using `IOKit` and Cgo to prevent system sleep during long-running inference tasks. (PR [#13675](https://github.com/ollama/ollama/pull/13675) - *In Review*)
+*   **CLI Robustness**: Increasing shell compatibility by fixing critical file path parsing issues for drag-and-drop operations on macOS/Linux. (PR [#13676](https://github.com/ollama/ollama/pull/13676) - *In Review*)
 
 ### 🌍 [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js)
-*   **3D Projection Mathematics**: Implemented constraint logic for the vertical perspective (Globe) projection.
-*   **Zoom Behavior**: Developed specific test cases to ensure map bounds respect the viewport in 3D space.
-
-### 🐼 [Pandas](https://github.com/pandas-dev/pandas)
-*   **Library Robustness**: Contributed to the strict-zip enforcement initiative, improving error handling and data alignment reliability across the codebase.
+*   **3D Projection Mathematics**: Implementing constraint logic for the vertical perspective (Globe) projection to ensure accurate viewport bounds. (PR [#6930](https://github.com/maplibre/maplibre-gl-js/pull/6930) - *In Review*)
 
 ---
 
