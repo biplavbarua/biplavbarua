@@ -17,31 +17,18 @@
 
 </div>
 
-## 🚀 Engineering Projects
+## 🏆 Achievements
 
-I build complex, high-performance applications solving real-world data and media problems.
+I am proud to have my code accepted and merged into significant open-source projects.
 
-### 🎵 [BeatSync](https://github.com/biplavbarua/beatsync)
-*   **High-Fidelity Audio Engine**: Engineered a web-based audio player to sync music across devices with gapless playback.
-*   **Real-time Synchronization**: Implemented multi-device playback state management using WebSockets.
-
-### 🎬 [Letterboxd Recommendations](https://github.com/biplavbarua/letterboxd_recommendations)
-*   **Recommendation Engine**: Built a content-based filtering system using Scikit-learn to generate personalized movie recommendations.
-*   **Data Pipeline**: Developed robust scrapers to harvest user data and movie metadata for model training.
-
----
-
-## 🛠 Open Source Contributions
+### 🧹 [Mole](https://github.com/tw93/Mole)
+*   **Feature Contribution**: Implemented purge support for modern frameworks (Angular, SvelteKit, Astro) and coverage data.
+*   **Impact**: Enabled thousands of developers to reclaim disk space from previously unsupported project types. (PR [#286](https://github.com/tw93/Mole/pull/286) - **Merged**)
+    > *"Thanks so much for your PR. I‘ve merged it into main... You can try by installing latest version"* — @tw93 (Owner)
 
 ### 🐼 [Pandas](https://github.com/pandas-dev/pandas)
-*   **Documentation & Quality**: Improved code quality and documentation consistency in the core Series accessors (PR #63457, Merged).
-
-### 🦙 [Ollama](https://github.com/ollama/ollama)
-*   **Systems Engineering**: Implemented native macOS Wake Lock using Cgo/IOKit to prevent system sleep during long-running inference (PR #13675).
-*   **Shell Robustness**: Fixed critical file path parsing issues for drag-and-drop operations (PR #13676).
-
-### 🌍 [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js)
-*   **3D Graphics Math**: Implemented constraint logic for vertical perspective projections to verify bounds in 3D space (PR #6930).
+*   **Core Documentation**: Improved code quality and API documentation consistency in the core Series accessors.
+*   **Impact**: Enhanced usability for the millions of data scientists relying on Pandas documentation. (PR [#63457](https://github.com/pandas-dev/pandas/pull/63457) - **Merged**)
 
 ---
 
