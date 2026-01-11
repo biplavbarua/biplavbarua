@@ -17,16 +17,19 @@
 
 </div>
 
-## 🚀 Active Engineering Focus
+## 🚀 Engineering Projects
 
-I am currently architecting features and fixes for high-impact open-source projects.
+I build complex, high-performance applications solving real-world data and media problems.
 
-### 🦙 [Ollama](https://github.com/ollama/ollama)
-*   **System Sleep Prevention (macOS)**: Engineering a native Wake Lock implementation using `IOKit` and Cgo to prevent system sleep during long-running inference tasks. (PR [#13675](https://github.com/ollama/ollama/pull/13675) - *In Review*)
-*   **CLI Robustness**: Increasing shell compatibility by fixing critical file path parsing issues for drag-and-drop operations on macOS/Linux. (PR [#13676](https://github.com/ollama/ollama/pull/13676) - *In Review*)
+### 🎵 [BeatSync](https://github.com/biplavbarua/beatsync)
+*   **High-Fidelity Audio Engine**: Engineered a web-based audio player with gapless playback using the Web Audio API.
+*   **Real-time Synchronization**: Implemented multi-device playback synchronization for shared listening sessions.
+*   **Tech Stack**: TypeScript, React, Web Audio API.
 
-### 🌍 [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js)
-*   **3D Projection Mathematics**: Implementing constraint logic for the vertical perspective (Globe) projection to ensure accurate viewport bounds. (PR [#6930](https://github.com/maplibre/maplibre-gl-js/pull/6930) - *In Review*)
+### 🎬 [Letterboxd Recommendations](https://github.com/biplavbarua/letterboxd_recommendations)
+*   **Recommendation Engine**: Built a content-based filtering system using Scikit-learn to generate personalized movie recommendations.
+*   **Data Pipeline**: Developed robust scrapers to harvest user data and movie metadata for model training.
+*   **Tech Stack**: Python, Scikit-learn, Pandas.
 
 ---
 
