@@ -26,6 +26,10 @@ I am proud to have my code accepted and merged into significant open-source proj
 *   **Impact**: Enabled thousands of developers to reclaim disk space from previously unsupported project types. (PR [#286](https://github.com/tw93/Mole/pull/286) - **Merged**)
     > *"Thanks so much for your PR. I‘ve merged it into main... You can try by installing latest version"* — @tw93 (Owner)
 
+### ⏩ [GlobalSpeed](https://github.com/polywock/globalSpeed)
+*   **Core Feature**: Implemented "Force Background Play" to bypass Visibility API checks, allowing video playback to continue in background tabs.
+*   **Impact**: Solved a key user frustration for thousands of users of this popular browser extension. (PR [#806](https://github.com/polywock/globalSpeed/pull/806) - **Merged**)
+
 ### 🐼 [Pandas](https://github.com/pandas-dev/pandas)
 *   **Core Documentation**: Improved code quality and API documentation consistency in the core Series accessors.
 *   **Impact**: Enhanced usability for the millions of data scientists relying on Pandas documentation. (PR [#63457](https://github.com/pandas-dev/pandas/pull/63457) - **Merged**)
