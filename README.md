@@ -34,6 +34,10 @@ I am proud to have my code accepted and merged into significant open-source proj
 *   **Core Documentation**: Improved code quality and API documentation consistency in the core Series accessors.
 *   **Impact**: Enhanced usability for the millions of data scientists relying on Pandas documentation. (PR [#63457](https://github.com/pandas-dev/pandas/pull/63457) - **Merged**)
 
+### ⌨️ [Monkeytype](https://github.com/monkeytypegame/monkeytype)
+*   **Architectural Refactor**: Decoupled event handlers from the central modal system to page controllers, resolving circular dependencies.
+*   **Impact**: Improved code maintainability and stability for the world's most popular typing test. (PR [#7333](https://github.com/monkeytypegame/monkeytype/pull/7333) - **Merged**)
+
 ---
 
 ## 📊 Engineering Stats
